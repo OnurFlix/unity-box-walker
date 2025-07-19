@@ -1,0 +1,16 @@
+# Unity Box Walker
+
+A simple Unity project where a box can be moved using W, A, S, D keys.
+
+## Features
+
+- Move the box using W, A, S, D
+- Basic Unity physics
+- Simple input-based movement system
+
+## Controls
+
+- `W` - Move Up
+- `A` - Move Left
+- `S` - Move Down
+- `D` - Move Right
